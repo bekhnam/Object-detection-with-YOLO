@@ -52,5 +52,4 @@ while True:
         break
 
 cv2.destroyAllWindows()
-vs.stop()
-    
+vs.stop()    
